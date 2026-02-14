@@ -161,7 +161,7 @@ The system consists of the following major components:
 | NLP | Hugging Face Transformers |
 | TTS | Google TTS / Coqui |
 | Database | MongoDB / PostgreSQL |
-| Cloud | AWS / GCP |
+| Cloud | AWS |
 | DevOps | Docker, GitHub Actions |
 
 ---
