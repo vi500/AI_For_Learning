@@ -119,8 +119,7 @@ The system follows a modular and scalable architecture.
 For queries and collaboration:
 
 📧 Email: vikasl.24.beai@achraya.ac.in  
-🌐 GitHub: https://github.com/your-username  
-
+🌐 GitHub: [https://github.com/vi500)
 ---
 
 > "Empowering students through intelligent, accessible, and interactive AI-driven learning."
