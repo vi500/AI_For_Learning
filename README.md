@@ -110,7 +110,7 @@ The system follows a modular and scalable architecture.
 ## 👥 Team
 
 **Team Name:** Techies14  
-**Team Leader:** Vikas M  
+**Team Leader:** Vikas M 
 
 ---
 
