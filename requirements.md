@@ -5,9 +5,7 @@
 
 ## 1. Introduction
 
-This document defines the functional and non-functional requirements for the **AI-Powered Visual Learning Assistant**, an intelligent educational platform that leverages Artificial Intelligence, Computer Vision, Natural Language Processing, and Speech Synthesis to provide interactive and personalized learning experiences.
-
-The system transforms static educational images into voice-guided and visually enhanced explanations to improve conceptual understanding and student engagement.
+An AI Process Visualization Engine that converts any technical or conceptual process into a clear 2D visual flow. Users input a process, and the system generates step-by-step diagrams with labeled explanations using clean boxes and arrows on a single page. The key innovation is transforming static knowledge into motion, improving understanding and retention. A planned upgrade animates the same flow like a video, revealing each step sequentially with synchronized voice or text explanations and interactive controls such as pause, replay, and step navigation. The end goal is to make learning complex systems feel intuitive and story-driven, benefiting engineering students, self-learners, and anyone studying complex processes
 
 ---
 
